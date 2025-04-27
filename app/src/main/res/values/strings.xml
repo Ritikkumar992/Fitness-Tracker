@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Forest</string>
+    <string name="app_name">Fitness Tracker</string>
     <string name="step_counter_channel">Step counter</string>
     <plurals name="step_count">
         <item quantity="one">%d step today</item>
